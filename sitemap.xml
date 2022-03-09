@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
      <loc>https://hpe-storage.github.io/array-exporter/releases/index.html</loc>
-     <lastmod>2021-11-19</lastmod>
+     <lastmod>2022-03-09</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://hpe-storage.github.io/array-exporter/deployment/index.html</loc>
-     <lastmod>2021-11-19</lastmod>
+     <lastmod>2022-03-09</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://hpe-storage.github.io/array-exporter/metrics/index.html</loc>
-     <lastmod>2021-11-19</lastmod>
+     <lastmod>2022-03-09</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://hpe-storage.github.io/array-exporter/integration/index.html</loc>
-     <lastmod>2021-11-19</lastmod>
+     <lastmod>2022-03-09</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://hpe-storage.github.io/array-exporter/grafana/index.html</loc>
-     <lastmod>2021-11-19</lastmod>
+     <lastmod>2022-03-09</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
@@ -42,12 +42,17 @@
     </url>
     <url>
      <loc>https://hpe-storage.github.io/array-exporter/legal/eula/index.html</loc>
-     <lastmod>2021-11-19</lastmod>
+     <lastmod>2022-03-09</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://hpe-storage.github.io/array-exporter/legal/notices/index.html</loc>
+     <lastmod>2022-03-09</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://hpe-storage.github.io/array-exporter/legal/support/index.html</loc>
-     <lastmod>2021-11-19</lastmod>
+     <lastmod>2022-03-09</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
